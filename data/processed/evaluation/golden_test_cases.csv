@@ -1,0 +1,11 @@
+case_id,customer_query,expected_intent
+1,I can't log into my Spotify account,account_login
+2,Spotify keeps buffering and won't play songs,playback
+3,My Spotify account has been hacked and someone changed my payment information,security
+4,My Spotify Premium subscription isn't working,subscription
+5,My playlist has disappeared and I can't find my songs,playlist
+6,Spotify is not working properly,general
+7,I forgot my Spotify password and cannot sign in,account_login
+8,My songs keep stopping after a few seconds,playback
+9,Someone used my card through my Spotify account,security
+10,I need help with my Spotify Student discount,subscription

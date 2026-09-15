@@ -1,0 +1,4 @@
+System,Accuracy,Macro F1
+Majority baseline,0.245,0.06559571619812583
+TF-IDF + Logistic Regression (5-fold CV),0.41,0.3210384059384495
+AI Support Agent,0.975,0.9755

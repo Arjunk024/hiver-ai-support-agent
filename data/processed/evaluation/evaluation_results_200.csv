@@ -1,0 +1,201 @@
+case_id,customer_text,expected_intent,predicted_intent,similarity,intent_correct
+1,@SpotifyCares Yoo!! I can’t find that Time Capsule playlist. I scan the playlist code and it never loads. Help pleaseee!!,playlist,playlist,0.7376474142074585,True
+2,@SpotifyCares Im trying to set up my profile as an artist and upload my music on there 🙏🏻🙄,general,general,0.8389952182769775,True
+3,@SpotifyCares @218968 Totally forgot the link! 🤦‍♀️ https://t.co/rAtjclebLf,general,general,1.0000001192092896,True
+4,@SpotifyCares I cant update my payment details bc it wants me to verify my student status (which I am not). Just want premium to not cancel.,security,security,0.9114782810211182,True
+5,@SpotifyCares I got a gift card and used it to get a premium account but it still says it's free when I try to log in?,account_login,account_login,0.8706008791923523,True
+6,@SpotifyCares The site was not letting my reset my password but I finally got it!,playlist,account_login,0.89139324426651,False
+7,"@SpotifyCares hello, I ve just payed Spotify premium, but I forgot to update my country in the details before. My account shows me that my current country is UK , bun now I live in the Netherlands. I payed with pound. Is there anyway to fix this?",subscription,subscription,0.8408770561218262,True
+8,"@SpotifyCares Whenever I receive a snapchat my music pauses, why is this? And how can I fix it?",playback,playback,0.9999999403953552,True
+9,@SpotifyCares my premium family account paused and when I started it back the family members are all gone and I cant re-invite? #2angrykids #help,playback,playback,0.8753761053085327,True
+10,"@SpotifyCares after your piss poor performance.. Its obvious you don't care, YOU HATE YOUR CUSTOMERS. AFTER 2 MONTHS I'M NOT TAKING MORE SCREEN SHOOTS. I'VE PAID 3 MONTHS WITH NO SERVICE. I HATE U AND WANT MY MONEY BACK NOW.",playlist,general,0.8140473365783691,False
+11,@SpotifyCares I just upgraded from premium to family and when i go to add family members I just get a blank page - please help!!!!,subscription,subscription,0.9408729076385498,True
+12,"@SpotifyCares what's up with the app?? Not playing certain albums, or playlists.",playback,playback,0.8551067113876343,True
+13,@SpotifyCares In my credit card. I would like that you reverse that charge. Can you do that?,security,security,0.837479293346405,True
+14,@SpotifyCares Yo didn't I see a commercial saying premium is 50% off w/ Capital One QuikSilver card? You're charging me full price.,subscription,subscription,1.0,True
+15,@SpotifyCares any plans to use the playback interface from the Time Capsule mode for normal playback? It’s so much nicer!,playback,general,0.6952537298202515,False
+16,@SpotifyCares everytime i play music and lock my phone the songs either pause or skip. I've re downloaded app and still not helped any ideas? thanks!,playback,playback,0.8943156003952026,True
+17,"@SpotifyCares my current email address (__email__). I would like to close both accounts and open a new, student premium account with my current email (__email__). I hope that all makes sense. Thanks for your help!",subscription,subscription,0.8173299431800842,True
+18,"@SpotifyCares can i see my status of account? so i dont forget to extend it, because i dont get/pay my premium account from credit card",security,security,0.814545750617981,True
+19,My account was charged after I cancelled Premium last month. What’s up? @SpotifyCares,subscription,subscription,0.9094329476356506,True
+20,@SpotifyCares Someone is using my grandmothers card for a subscription and we are trying to figure out how to stop it from charging her account.,subscription,subscription,0.8088226318359375,True
+21,"@SpotifyCares Error code 3, but I've also changed my facebook password too just in case. But still it doesn't work.",account_login,account_login,0.8858466148376465,True
+22,.@SpotifyCares hey. bring back anita baker's catalog when you're not busy. thanks,general,general,0.7192977070808411,True
+23,@SpotifyCares my account has been hacked. The email address has been changed. Please can someone help. Thanks,security,security,0.9822695851325989,True
+24,"@SpotifyCares the app is: difficult to navigate, clunky, doesn’t even sort of mirror spotify for web/mobile/etc., doesn’t give options + my playlists.",playlist,playlist,0.8049671649932861,True
+25,What's happening on spotify's system? I tried it for 15 times already since 1pm until now. I can't subscribe again into premium and I don't know why. ☹️ please help me to fix this shit! @SpotifyCares @148611 https://t.co/fTriAOfIbw,subscription,subscription,0.8202229142189026,True
+26,@SpotifyCares just booted off my family plan for some reason this morning. I have resent invite multiple times. It says oops try again.,subscription,subscription,0.8867114782333374,True
+27,"@SpotifyCares Hi. Thanks. I have paid to changing my account into premium account, but turns out, my account is still free one. Pls advise.",subscription,subscription,0.921451210975647,True
+28,@SpotifyCares I talked to 2 people and both ain’t know how to help so the subscription canceled,subscription,subscription,0.867628276348114,True
+29,@SpotifyCares I can't remember any of my login details and I ambout to pay a subscription which I do not want.,account_login,account_login,0.8833823204040527,True
+30,"SOS @SpotifyCares I can't log into my account (signed up through FB), it keeps saying error code 3. PLZ HELP I NEED MUSIC😩",account_login,account_login,0.8537008166313171,True
+31,@118266 please take a look @SpotifyCares https://t.co/pqL10MyQIe,general,general,0.9141060709953308,True
+32,"8 days later and this has happened again, but also cleared my entire saved artists and albums. How much is @1122? @SpotifyCares https://t.co/ajvFCQnrFY",general,general,0.730219841003418,True
+33,"@spotifycares Hi! Saw an offer for a year of premium for $99, and now I can’t find where to sign up for it. Can you help me?",subscription,subscription,0.859023928642273,True
+34,@SpotifyCares am I eligible for free Hulu if I already have Spotify Premium?,subscription,subscription,0.8828283548355103,True
+35,"@SpotifyCares My debit card number changed and I can't update my payment. It says ""token incorrect"" or something. https://t.co/livKEPVgc0",security,security,0.8634148836135864,True
+36,@SpotifyCares how can i stop my playlists turning into radio ones? because it keeps turning into one and starts playing random songs,playlist,playlist,0.8526531457901001,True
+37,@SpotifyCares keep getting 404 error code then trying to log in been a few days now #sortitout,account_login,account_login,0.8376506567001343,True
+38,"@SpotifyCares trying to sign into my account but seem to have 2 linked to 1 email address, when I reset my password it's for the wrong account. Any help appreciated",account_login,account_login,1.0,True
+39,@SpotifyCares @116130 my account has been hacked and email changed. Please contact to sort asap,security,security,0.9218732714653015,True
+40,@SpotifyCares My premium seems to have disappeared from my account. I got it for free awhile back on a deal with a new phone I bought.,subscription,subscription,0.9003629684448242,True
+41,@SpotifyCares hey most of my saved songs went and it’s a premium account,subscription,subscription,0.873587429523468,True
+42,"@SpotifyCares whenever I’m on twitter and open a GIF, the music pauses. I’m on the iOS 11.2 public beta.",playback,playback,0.8816152811050415,True
+43,"@SpotifyCares Oh, that’s why! Thank you for the quick response! :)",general,general,0.871029257774353,True
+44,"@SpotifyCares hi. Share button in android app just crashes Spotify, has done for over a week now? Help. 8.4.22.857 on pixel xl",general,general,0.8765842914581299,True
+45,"@SpotifyCares Are you experiencing any log in issues ? i can't log in spotify from the browser , pc and mobile works fine , dead page",account_login,account_login,1.0,True
+46,@SpotifyCares I'm on the latest Spotify & I just updated to the latest iOS version. Tried logging out & back in & most of the songs still won't play.,playback,playback,0.990746021270752,True
+47,"Hey @SpotifyCares , I'm not able to pay with my prepaid visa. I still have $30+ on it, it was working last month. Any hint ?",general,general,0.8272736072540283,True
+48,@SpotifyCares WHY ISN'T FLICKER OUT YET,general,general,0.7839718461036682,True
+49,"@spotifycares I need my email address changed on my account, and can't remember password. Old email no longer exists.",account_login,account_login,0.934167742729187,True
+50,@SpotifyCares I'm going to assume the United States. I've had the song on my playlist before. Then it just disappeared.,playlist,playlist,0.7849242091178894,True
+51,"@SpotifyCares No, playlists not affected",playlist,playlist,0.935157835483551,True
+52,"@SpotifyCares nah, no error messages. the play/pause/skip hotkeys on my keyboard just aren’t working anymore https://t.co/hnx8Zwn7RE",playback,playback,0.7370995283126831,True
+53,@SpotifyCares Or when I’m playing it out loud through my phone speaker,general,general,0.7933792471885681,True
+54,"@SpotifyCares Hi, you have cancelled my family subscription; I cannot login for contact you. Please advise. Thanks, GD-H",account_login,account_login,0.8418816924095154,True
+55,"@SpotifyCares Me: I want my username to be this Spotify: okay so your DISPLAY name is that but your login username is ""ahakbrnrbrbnrn172882jjanabw"" okay?",account_login,account_login,1.000000238418579,True
+56,"@SpotifyCares I want to upgrade to premium but every time I try to pay via my paypal, the page just cycles back to the premium offers.... HELP",subscription,subscription,0.8757813572883606,True
+57,"@SpotifyCares gotted logged out of my account and when I yty to log in, says I don't have an internet connection. Both on wifi & 4g. Anyfix?",account_login,account_login,0.9990012645721436,True
+58,"@SpotifyCares Cheers for the reply guys and awesome please do pass it on, spend so much time putting regularly updated playlists to top and seems like a fairly simple feature to add :)",playlist,playlist,0.8379707336425781,True
+59,"still having this issue and I know I'm not alone. Any ideas, @SpotifyCares ? I was in a meeting yesterday and OutKast unpaused randomly",playback,playback,0.6776196956634521,True
+60,"@SpotifyCares Hi RR, here's the email with the dodgy dates, just thought I'd reciprocate amd reach out with a playlist as you guys do such a great job - https://t.co/oAo3dNvIWf https://t.co/SRbi38lnCv",playlist,playlist,0.6840129494667053,True
+61,"@SpotifyCares Thanks for your reply! It's located in the Netherlands, @419514 it is. I prefer not to pay by credit card so I only have one option :)",security,security,0.7920718193054199,True
+62,@SpotifyCares how do I remove all @146177 music from my playlists? He said I can't listen to him. 👌😂🥃#MAGA,playlist,playlist,0.8017522096633911,True
+63,@SpotifyCares Don't know that either,general,general,0.9157955646514893,True
+64,@SpotifyCares Thanks for the clarification ;-),general,general,0.9604119658470154,True
+65,@SpotifyCares All good now!,general,general,0.94987952709198,True
+66,@SpotifyCares I can't log in to my account and it's not recognising my username for a password reset. Get this. https://t.co/zcIYH3YXAG,account_login,account_login,0.9290742874145508,True
+67,@SpotifyCares Without it being able to work with voice controls on Android auto it's next to useless to me,general,general,0.7248881459236145,True
+68,@SpotifyCares Hi! I'm having issues with my spotify where it pauses randomly saying its being used elsewhere. Thanks ^^,playback,playback,0.8462995290756226,True
+69,"@SpotifyCares Nevermind, that was only for the time capsule playlist. I like the UI, will this be default in the future?",playlist,playlist,0.7529504299163818,True
+70,@SpotifyCares I received an email saying I updated my email address and now I'm not able to login using email or Facebook.,account_login,account_login,0.9079093337059021,True
+71,"@SpotifyCares hi, why is there only 3 options for premium, 1188,- 49,- AND 149,- when before i could pay 99,- or something per month. I want premium for myself, not my whole family AND i am not a student 🤔",subscription,subscription,0.7997179627418518,True
+72,"@SpotifyCares is the system down, cannot login on any system",account_login,account_login,0.9044288396835327,True
+73,@SpotifyCares #DDoS all our data has been stolen?,security,security,0.7933605909347534,True
+74,@SpotifyCares It tells me I can’t play the current track and I can import it if it is a local file. Latest version of Spotify on the latest version of win,general,general,0.8387548923492432,True
+75,@SpotifyCares trying to log into my acct family premium and it takes me to the free version that i used to have.,account_login,account_login,0.8882135152816772,True
+76,@SpotifyCares But I want the playlists etc associated with the account to me moved to stay with it once it gets recreated. Is that possible?,playlist,playlist,0.8749520778656006,True
+77,@SpotifyCares This track is a demo rather than album version,general,general,0.7777288556098938,True
+78,"Hello, I can’t login to my Spotify account because my Facebook book account has been deactivated. Can you please help? @SpotifyCares",account_login,account_login,0.8704602122306824,True
+79,@SpotifyCares 2nd times this week... Downloaded playlist disappears...,playlist,playlist,0.8903239965438843,True
+80,@SpotifyCares can you make me a playlist,playlist,playlist,0.9480894804000854,True
+81,"@SpotifyCares i know you’re not the ones to do it but make them add this song by Fergie and Nicki Minaj, it could be a hit 😭",general,general,0.7636414766311646,True
+82,"@SpotifyCares okay then, I'd paid 1 month premium account via mandiri clickpay but it doesn't make me premium member.",subscription,subscription,0.8468153476715088,True
+83,@SpotifyCares Thanks!,general,general,1.0,True
+84,@SpotifyCares They don’t work. Next/prev buttons are greyed out and the play button should be a pause button and doesn’t do anything,playback,playback,0.8315179347991943,True
+85,@SpotifyCares My music pauses itself constantly and that's when the app isn't freezing. It just started this today. I'm using an LG G5 with Android 6.0.1,playback,playback,0.8440809845924377,True
+86,"So saving an entire album to a playlist on Android no longer automatically names the playlist ""Artist - Album Name""? This is a step backwards @115888 @SpotifyCares!",playlist,playlist,0.8156306147575378,True
+87,@SpotifyCares hi just got an email from you that my email address has been changed and it was NOT me. Concerned I've been hacked.,security,security,0.9460982084274292,True
+88,@SpotifyCares my desktop app opens and then refreshes a few times then quits. Mobile app is fine. Please help!,general,general,0.8250170350074768,True
+89,@SpotifyCares every time I go to listen to my music my phone connects to a phone that I don't know and pauses or changes my music,playback,playback,0.8020899295806885,True
+90,"@SpotifyCares i want to cancel my premium but don't know what email i used, i know the username though, what do i do?",subscription,subscription,0.8976413011550903,True
+91,@116130 @SpotifyCares hi. How do I get some help with my account?,general,general,0.9327425360679626,True
+92,"@SpotifyCares No, the problem is I open the app and it says im offline, so it doesn't login. But, I am connected to my mobile network",account_login,account_login,0.8454091548919678,True
+93,@SpotifyCares why isn’t anything besides my predone playlist working? I can’t use the radio or search or home page or discover I pay 15 bucks a month I expect to be able to use what I pay for,playlist,playlist,1.0,True
+94,@SpotifyCares Thanks. Was slightly annoyed i had to open a twitter account just to contact spotify. Hence my frustration.,general,general,0.844776451587677,True
+95,@SpotifyCares hi! it’s set to the UK :),general,general,0.9574261903762817,True
+96,@SpotifyCares not when the pc is unlocked then the play/pause key on the keyboard doesn't work...,playback,playback,0.7257970571517944,True
+97,"@SpotifyCares I moved to Singapore but your site says you don't work there. I need to reverse the last charge of RM14.90 on 9 November 2017 please, as I do not live in Malaysia anymore and that credit card has been canceled. I already blocked the credit card account. Thank you.",security,security,0.6924075484275818,True
+98,"@SpotifyCares Sure! It’s iOS 11.0.3 and Spotify version 8.4.25. When I connect to Bluetooth in my car, I can’t change the song from there either",general,general,0.8443741798400879,True
+99,@SpotifyCares Yes.,general,general,0.9895108938217163,True
+100,@SpotifyCares I can't log into my account. Keeps saying try later.,account_login,account_login,0.952965259552002,True
+101,Just hit my @115888 cap! Using the service is gonna so much harder now - isn't saving albums just indexing; why the cap? @SpotifyCares #Spotify #thedaythemusicdied,general,general,0.6959754228591919,True
+102,@SpotifyCares 8.4.20.535 and iOS 10.3.2 which I know isn’t the newest version but nothing in the last app update said it wasn’t compatible.,general,general,0.8816162347793579,True
+103,@SpotifyCares Unable to login due to website telling me my account is linked to Facebook when it is not.,account_login,account_login,0.9422429800033569,True
+104,@SpotifyCares I think I got my account hacked,security,security,0.9620696306228638,True
+105,@SpotifyCares Please add functionality of removing a song from playlist while listening the song from a personal playlist #easywin👍🏻,playlist,playlist,0.8542535901069641,True
+106,@SpotifyCares I’m unable to reset my password. I sent you guys a DM,account_login,account_login,0.8897700309753418,True
+107,@SpotifyCares when #Spotify will come to India?,general,general,0.9647612571716309,True
+108,"@SpotifyCares When did my premium subscription end? I was billed on 9-28, so I thought it would be good until 10-28? Thanks!",subscription,subscription,0.8482534885406494,True
+109,"@SpotifyCares How does that make sense? I create playlists because that is what I want to listen to, why add totally random tracks to it?",playlist,playlist,0.8186005353927612,True
+110,@117153 My credit card seem to expire soon. But that isn't the case. Is this related? Cc @SpotifyCares,security,security,0.7268283367156982,True
+111,@SpotifyCares Hi! I just discovered my account was hacked and someone changed my e-mail/password. Can you guys help me?,security,security,0.9477483630180359,True
+112,@SpotifyCares Both.,general,general,0.990206241607666,True
+113,@SpotifyCares This is a workaround for when the device is on 4g and something on the home network is playing. Having the devices imonbthe same network would still cause this problem. Why would the Android Spotify app even force other apps to pause?!,playback,playback,0.8262079954147339,True
+114,"@SpotifyCares I'm trying to update my payment information, but after putting in my new card info it takes me to the student verification page....I just want to update my card, that's all. I'm not a student.",security,security,0.8980346918106079,True
+115,"@SpotifyCares i can't seem to add others to my premium for family account, each time I try it just appears with a blank screen? Have tried on various devices!?",subscription,subscription,0.875372588634491,True
+116,@SpotifyCares I can log in on a web device but not on a mobile app. I've tried these on two mobile devices,account_login,account_login,0.8463438749313354,True
+117,@SpotifyCares am i able to restart my spotify premium for students after the 12 months if i am still enrolled in school when those 12 months are up?,subscription,subscription,0.8104349374771118,True
+118,@115888 @SpotifyCares,general,general,0.9849714040756226,True
+119,"I deleted my Facebook account which I need to log into my Spotify account to change my payment details, what do I do? @SpotifyCares",security,security,0.8754802346229553,True
+120,@SpotifyCares Omg thanks! 🙏,general,general,0.9817652702331543,True
+121,"@SpotifyCares Yes I took those steps. I hope it is over now, if not - like some of the cases described here: https://t.co/LImbiH04Km - i will report back.",general,general,0.8331763744354248,True
+122,"@SpotifyCares OK. Thanks. If I wanted to import my existing iTunes to Spotify, how do I do it? Done in the past ages ago but want to copy latest. File-> Import Playlists-> iTunes does nothing",playlist,playlist,0.805305004119873,True
+123,"@SpotifyCares Hello, I had to close my credit card on file due to a recent fraud on the account. I'm trying to update my payment option before my subscription ends but it won't process my transaction. It's been 2 days! Please help :(",security,security,0.7752552032470703,True
+124,@SpotifyCares hello...why cant my registration w/ your P9 promo using my debit card? is debit card accepted?,security,security,0.76131272315979,True
+125,@SpotifyCares Yeah can I get my money back,general,general,0.9167786836624146,True
+126,"@SpotifyCares hey guys, so this is happen again? https://t.co/s0vtUN7SxS",general,general,0.8933603763580322,True
+127,"Hey @SpotifyCares is there any way I can fix the issues with my songs skipping? (Almost like a scratched CD.) I have updated the app & also uninstalled & reinstalled the app onto my phone, but nothing has worked.",playback,playback,0.9990360736846924,True
+128,@SpotifyCares my family account isn’t working for any members except mine after I updated payment information. Help!,security,security,0.8920959234237671,True
+129,@SpotifyCares I upgraded to premium for family.. premium redeem code keeps saying invalid. Please help!,subscription,subscription,0.9011712074279785,True
+130,@SpotifyCares I'm using Spotify v8.4.28.875 armv7 on my stock Android 7.1 phone.,general,general,0.9116297960281372,True
+131,@SpotifyCares my spotify got hacked again?! plz help,security,security,0.9038999676704407,True
+132,"@SpotifyCares Hey guys! Wanted to let you know it's fixed, thank you for having the best customer support in the business <3",general,general,0.9969353675842285,True
+133,"@SpotifyCares my Xmas playlist used to have about 3,000 songs on it, now it has 1801. I know that sounds crazy, but I’m bummed! Where r they",playlist,playlist,0.7743008136749268,True
+134,@SpotifyCares someone hacked my account and added music I don't recognize. Should I do something besides changing my password?,security,security,0.8904605507850647,True
+135,@SpotifyCares Android 7.0 and spotify is 8.4.21.508 V7,general,general,0.919120728969574,True
+136,"Hey @SpotifyCares. Site won't load at all in Firefox. In Chrome prompts me to log in, but when I do, takes me back to the ""please log in."" https://t.co/KLfVmtH1RC",account_login,account_login,0.7682317495346069,True
+137,@SpotifyCares iOS 11.1 and Spotify version 8.4.25,general,general,0.996351420879364,True
+138,"@115888 @SpotifyCares why puerto rico dont have a playlist with the top songs, Like we have a lot of artist like luis,bad bunny,farruko ect",playlist,playlist,0.7700702548027039,True
+139,@SpotifyCares Need refund for shady business practices. I was upgraded to a family plan overnight & charged without authorization.,subscription,subscription,0.9982377886772156,True
+140,"@SpotifyCares Yes I have, twice in 2 days and my new account has been accessed to within a few hours although ALL precautions have been taken I basically can't have a premium account until you install proper security measures (maybe look at what Google does with double passwords...)",account_login,account_login,1.0000001192092896,True
+141,"@SpotifyCares I can't listen to specific artists on spotify, it shows them but music won't play",playback,playback,0.8551050424575806,True
+142,"@SpotifyCares The Android version is 7.0, & this is happening off Wi-Fi, however, I haven't tried my 4G with the app since the issue started occurring. I should add that it seems to be pausing/skipping songs when I have my phone locked, more so than when I have my device unlocked.",playback,playback,0.8048238754272461,True
+143,@SpotifyCares hi! My Spotify keeps pausing in the middle of the song...help please? Thank you!,playback,playback,0.8780120611190796,True
+144,"@SpotifyCares Okay, thank you so much, I can not see the time.",general,general,0.83326256275177,True
+145,"@SpotifyCares I upgraded to Premium for Family & added my wife. She accepted the invite but her account still appears as ""Free"". Please Help",subscription,subscription,0.9988508224487305,True
+146,@SpotifyCares another account but i don't. Could you help? (2/2),general,general,0.8837695121765137,True
+147,@spotifycares im having an issue The last few months I’ve been overcharged and I’m a student.,general,general,1.0,True
+148,"@SpotifyCares hi, how come the songs I have downloaded on my playlist don’t sync to my phone?",playlist,playlist,0.8247326612472534,True
+149,"@SpotifyCares I have Spotify premium and have playlists downloaded but when using bus WiFi none of my downloaded playlists show up and it won’t connect, even though the WiFi is working fine https://t.co/rXZS7xsCZ2",playlist,playlist,0.7472280263900757,True
+150,My account was charged but not yet verified for student premium. Can i refund my money?@SpotifyCares,subscription,subscription,0.8787024021148682,True
+151,"@SpotifyCares Using spotify on my pixelbook, the pause/play button doesnt work when the app is in the background. Is this a Spotify app problem?",playback,playback,0.7709842920303345,True
+152,@SpotifyCares Nothing happened but I did notice it is only this specific playlist that doesn’t show the playback bar all the others show it 🤔🤔🤔 https://t.co/EPDgUy9EHT,playback,playlist,0.8253650665283203,False
+153,"@SpotifyCares I keep getting ""phantom"" music playing, will show some random song/playlist is being played on ""spotify web player""",playlist,playlist,0.796816349029541,True
+154,@SpotifyCares https://t.co/8yCTisYAUj,general,general,0.9844621419906616,True
+155,@SpotifyCares how come I can’t search my library while offline? It’s dumb af,general,general,0.7650392651557922,True
+156,"I'm paying for a Spotify family premium every month, but both my wife's and my account are suddenly listed as free, and we can't access premium features. My account name is sadist3n. I expect a quick resolution + free month, or I'm migrating to Apple.@SpotifyCares.",subscription,subscription,0.8600577712059021,True
+157,@SpotifyCares Why is my music on my phone randomly pausing and say it's playing suggested songs rather than the playlist I asked for?,playback,playback,0.8206682801246643,True
+158,"@SpotifyCares hi,, i decativated facebook. please can i change my login account",account_login,account_login,0.8649001121520996,True
+159,@SpotifyCares Yay thank you!,general,general,0.9738855361938477,True
+160,"@SpotifyCares Hello, I'm not able to join back to a family plan. There's always an error showing up.",subscription,subscription,0.9122797846794128,True
+161,@SpotifyCares my daily mix keeps stopping for no reason. it’s not my internet connection. help please. thanks.,playback,playback,1.0000001192092896,True
+162,"@SpotifyCares I belong to premium for family, but my phone reset all the apps,I can't access to my premium acct I can't listen what I want plus I have to listen the ads.I got the invitation from My brother but when I sign in takes me to the same account. What can I do?",account_login,account_login,0.8334524631500244,True
+163,@SpotifyCares Foo fighters in Atalanta on 4/28. Possibly part of the credit card on file with Spotify...,security,security,0.6923223733901978,True
+164,"@SpotifyCares It sometimes appears a playback failed message, but not all the time",playback,general,0.8395061492919922,False
+165,@SpotifyCares I have a charge on my account for Spotify Premium but my Spotify account still says it’s Free. What should I do?,subscription,subscription,0.9445626735687256,True
+166,@SpotifyCares I cannot choose my own username. So I ended my subscription at once. How do I proceed to get a normal username?,subscription,subscription,0.857653021812439,True
+167,"@SpotifyCares Great customer service!👍 if there’s any way you can let your product teams know the new play view, such as on Spotify’s ‘mint’ playlist, is awesome... please add the option for this across the app! 😉 https://t.co/IwnieK03Ve",playlist,playlist,0.7317118644714355,True
+168,@SpotifyCares Tried to update my pay info 4 my student Premium account but it gave me an error and has already charged $9.99. Please help!,subscription,subscription,0.8823119401931763,True
+169,@SpotifyCares Just switched to Mac. Hovering over the Spotify icon in the tray doesn't bring up track info/play/pause like on Windows. Watdo,playback,playback,0.7598516941070557,True
+170,@SpotifyCares I have Spotify premium but I thought I had premium student and I want to add a Hulu account to it. How do I switch to Spotify student without making a new account?,subscription,subscription,0.890268087387085,True
+171,@SpotifyCares Thank you.,general,general,1.0,True
+172,"@SpotifyCares iPhone 8, iOS 11, and free Spotify. Not a single song in my playlist plays. It’s all recommended songs.",playlist,playlist,0.7877755761146545,True
+173,@SpotifyCares I'll try in 30min :),general,general,0.8873025178909302,True
+174,@SpotifyCares Need help with premium subscription. Please refer to DM.,subscription,subscription,0.8983818292617798,True
+175,"@SpotifyCares Hi, my premium account has been stolen by a man in Russia, how do I resolve this, I don't want my eurodance playlist destroyed",security,security,0.7887164354324341,True
+176,"@SpotifyCares hi, the song just keeps cutting off, every couple of seconds it just pauses itself",playback,playback,0.8434724807739258,True
+177,"@SpotifyCares’ Hi, I can't seem to log into my premium account anymore. My ""subscription with one of our partners has just end""",account_login,account_login,0.8878876566886902,True
+178,@SpotifyCares I pay a monthly fee for this but now can't download any other music to listen to on the go. I'm paying to not be able to do something. (3),general,general,0.8242242336273193,True
+179,@SpotifyCares my biz credit card gets charged every month but I️ don’t know my account so can’t cancel. It’s been like 3 years. See my problem?!? How do I️ cancel???,security,security,0.8605819940567017,True
+180,"@SpotifyCares Android V7.0, Samsung S7 Edge, Spotify V8.4.25.771armV7. Bluetooth controls work fine on all other media apps, play/pause dont work on sptfy",playback,playback,0.746452271938324,True
+181,@115888 @SpotifyCares hey i want the .99 deals you are offering new costumers!!! I been with you for about 4 years i deserve it,general,general,0.7950237989425659,True
+182,@SpotifyCares How can I amend the post code on my account? I'm in a family plan.,subscription,subscription,0.7544372081756592,True
+183,"Hey @SpotifyCares someone is using my Spotify account on devices I don't recognize, I think I may have been hacked. Help?",security,security,0.912030816078186,True
+184,"@SpotifyCares For some reason, I can't log in, even though I typed in the correct username and password.",account_login,account_login,0.9444757699966431,True
+185,@SpotifyCares someone's signed up for Spotify with my email address and their credit card. I'm getting their statements. Need this fixed.,security,security,0.8231274485588074,True
+186,@SpotifyCares Yes so they all saved on my mac and saved these playlists to phone,playlist,playlist,0.7975616455078125,True
+187,"@SpotifyCares my library has become a convoluted mess of meaningless, endless playlists with zero hierarchy or order, all because of the cap",playlist,playlist,0.7343797087669373,True
+188,"@spotifycares Unable to log in, unable to reset password and unable to contact anybody. Pls get back to me asap or i will cancel account",account_login,account_login,1.0000001192092896,True
+189,"@SpotifyCares It happens over 4G, WiFi, and my downloaded playlists.",playlist,playlist,0.8726890087127686,True
+190,@SpotifyCares Can my kids use Spotify on their tablets as part of family plan? They are under 12,subscription,subscription,0.7246174812316895,True
+191,@SpotifyCares Hi there - any reason why Spotify won't let me log in via my Facebook via my new computer?,account_login,account_login,0.9200109839439392,True
+192,"@SpotifyCares iPhone 7+, Dear Evan Hansen's playlist (that I have saved) won't play :(",playback,playback,0.7799211740493774,True
+193,@SpotifyCares Do you care?,general,general,0.9076967239379883,True
+194,@SpotifyCares hey! My Spotify randomly stops playing music and it’s happening everytime I listen... :-(,playback,playback,0.9036837220191956,True
+195,"@SpotifyCares my card was charged, but I still don't have premium",subscription,subscription,0.9284226894378662,True
+196,"Hey @SpotifyCares @117168, why can I see my playlists in the lefthand sidebar but no one can see them when they view my profile/they're unsearchable?",playlist,playlist,0.7984556555747986,True
+197,@SpotifyCares where is super slimey,general,general,0.729328989982605,True
+198,"@SpotifyCares hey when is the ""your top songs 2017"" customized playlist going to be released",playlist,playlist,0.892665684223175,True
+199,@SpotifyCares ps4 related. When i just want to play all songs only the first one does then it stops playing mid song. Or it will restart the song completely 1min in happens in game or not help please been going on for a month.,playback,playback,0.7746030688285828,True
+200,You can’t deny that this masterpiece deserves a place in one of your rap playlists @SpotifyCares @117168 🔥 https://t.co/OKUJki9FGv,playlist,playlist,1.0,True
